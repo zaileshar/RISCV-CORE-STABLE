@@ -7,3 +7,5 @@ public:
     }
 };
 // Memory layout adjusted for performance
+
+// Memory layout adjusted for cache hit rate
