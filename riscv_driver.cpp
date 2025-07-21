@@ -6,3 +6,4 @@ public:
         std::cout << "Riscv_driver initialized." << std::endl;
     }
 };
+// Memory layout adjusted for performance
