@@ -9,3 +9,5 @@ module riscv_tb (
     end
 endmodule
 // Modified timing constraints 251ns
+
+// Updated logic section 32
